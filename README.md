@@ -1,4 +1,3 @@
-# ATM_Simulation
 # 💳 ATM System (Python)
 
 A simple ATM simulation system built using Python. This is a command-line based project that allows users to perform basic banking operations.
